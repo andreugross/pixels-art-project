@@ -4,5 +4,25 @@
   width: 55px;
   height: 55px;
   border-radius: 12px;
-  box-shadow: 0 0 5px slategray;
+}
+
+#blck {
+    background-color: black;
+    box-shadow: 0 0 5px black;
+}
+
+#pnk {
+    background-color: pink;
+    box-shadow: 0 0 5px pink;
+}
+
+#yllw {
+    background-color: yellow;
+    box-shadow: 0 0 5px yellow;
+}
+
+#grm {
+    background-color: green;
+    box-shadow: 0 0 5px green;
+    ;
 }
