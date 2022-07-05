@@ -92,8 +92,8 @@ quartaCor.addEventListener('click', () => {
 
 // adiciona botão que limpa a tabela pixel depois de preenchida
 clearButton.addEventListener('click', () => {
-    const pixels = document.querySelectorAll('.pixel');
-    for (let i = 0; i < pixels.length; i += 1) {
-      pixels[i].style.backgroundColor = 'rgb(255, 255, 255)';
-    }
-  });
+  const pixels = document.querySelectorAll('.pixel');
+  for (let i = 0; i < pixels.length; i += 1) {
+    pixels[i].style.backgroundColor = 'rgb(255, 255, 255)';
+  }
+});
