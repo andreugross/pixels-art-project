@@ -24,19 +24,19 @@ table tr td {
 }
 
 .black {
-  background-color: black;
+  background-color: rgb(0, 0, 0);
 }
 
 .blue {
-  background-color: blue;
+  background-color: rgb(70, 130, 180);
 }
 
 .pink {
-  background-color: pink;
+  background-color: rgb(219, 112, 147);
 }
 
-.red {
-  background-color: red;
+.green {
+  background-color: rgb(34, 139, 34);
 }
 
 .pixel {
