@@ -24,17 +24,24 @@ table tr td {
 }
 
 .black {
-    background-color: black;
+  background-color: black;
 }
 
 .blue {
-    background-color: blue;
+  background-color: blue;
 }
 
 .pink {
-    background-color: pink;
+  background-color: pink;
 }
 
 .red {
-    background-color: red;
+  background-color: red;
+}
+
+.pixel {
+  border: solid 1px black;
+  background-color: white;
+  height: 40px;
+  width: 40px;
 }
