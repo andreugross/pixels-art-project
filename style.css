@@ -1,28 +1,40 @@
+h1 {
+  margin-left: 40px;
+}
+
 .color {
   display: inline-block;
   border: 1px solid black;
-  width: 55px;
-  height: 55px;
+  width: 40px;
+  height: 40px;
   border-radius: 12px;
 }
 
-#blck {
+table {
+  margin-left: 40px;
+  margin-bottom: 10px;
+}
+
+table tr td {
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+  border-radius: 12px;
+  background-color: white;
+}
+
+.black {
     background-color: black;
-    box-shadow: 0 0 5px black;
 }
 
-#pnk {
+.blue {
+    background-color: blue;
+}
+
+.pink {
     background-color: pink;
-    box-shadow: 0 0 5px pink;
 }
 
-#yllw {
-    background-color: yellow;
-    box-shadow: 0 0 5px yellow;
-}
-
-#grm {
-    background-color: green;
-    box-shadow: 0 0 5px green;
-    ;
+.red {
+    background-color: red;
 }
